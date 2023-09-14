@@ -2,7 +2,7 @@
 title: Niñez Constituye
 email: observatorio@paralaconfianza.com
 description: 'Monitoreo sobre la inclusión de los derechos de la niñez en la nueva constitución'
-baseurl: '/' # the subpath of your site, e.g. /blog/
+baseurl: '//infancia.ciudadaniai.org/' # the subpath of your site, e.g. /blog/
 url: 'https://infancia.ciudadaniai.org' # the base hostname & protocol for your site
 # analytics: 'G-ES8KVYN4W6' # google analytics tracking code
 launched: true
