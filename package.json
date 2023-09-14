@@ -25,6 +25,6 @@
     "xhr2": "^0.2.1"
   },
   "devDependencies": {
-    "grunt": "^1.4.1"
+    "grunt": "^1.6.1"
   }
 }
