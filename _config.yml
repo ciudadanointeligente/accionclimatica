@@ -1,9 +1,9 @@
 # site settings
-title: Niñez Constituye
-email: observatorio@paralaconfianza.com
+title: Acción Climática
+email: fperry@ciudadaniai.org
 description: 'Monitoreo sobre la inclusión de los derechos de la niñez en la nueva constitución'
-baseurl: '//infancia.ciudadaniai.org/' # the subpath of your site, e.g. /blog/
-url: 'https://infancia.ciudadaniai.org' # the base hostname & protocol for your site
+baseurl: '//accionporelclima.cl/' # the subpath of your site, e.g. /blog/
+url: 'https://accionporelclima.cl' # the base hostname & protocol for your site
 # analytics: 'G-ES8KVYN4W6' # google analytics tracking code
 launched: true
 # build settings
