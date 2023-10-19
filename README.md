@@ -1,6 +1,6 @@
-# Repositorio de Niñez Constituye
+# Repositorio de Acción Climática
 
-Repositorio de Niñez Xonstituye, un proyecto de Fundación Para la Confianza junto a Ciudadanía Inteligente
+Repositorio de Acción Climática, un proyecto de Fundación Ciudadanía Inteligente
 
 ## Sitio en Jekyll
 
