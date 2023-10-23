@@ -1,14 +1,38 @@
 [
     {
         "id": 1,
-        "macro_area": "Principios, derechos y garantías de NNA",
-        "quality_macro_area": "5.909090909",
-        "fulfillment_macro_area": 82
+        "macro_area": "Planificación",
+        "quality_macro_area": "",
+        "fulfillment_macro_area": 71
     },
     {
         "id": 2,
-        "macro_area": "Órganos institucionales",
-        "quality_macro_area": "5",
-        "fulfillment_macro_area": 0
+        "macro_area": "Reducción de gases de efecto invernadero",
+        "quality_macro_area": "",
+        "fulfillment_macro_area": 60
+    },
+    {
+        "id": 3,
+        "macro_area": "Institucionalidad",
+        "quality_macro_area": "",
+        "fulfillment_macro_area": 62,5
+    },
+    {
+        "id": 4,
+        "macro_area": "Sistema de información",
+        "quality_macro_area": "",
+        "fulfillment_macro_area": 56,2
+    },
+    {
+        "id": 5,
+        "macro_area": "Participación",
+        "quality_macro_area": "",
+        "fulfillment_macro_area": 50
+    },
+    {
+        "id": 6,
+        "macro_area": "Modificaciones a la gestión ambiental",
+        "quality_macro_area": "",
+        "fulfillment_macro_area": 75
     }
 ]
