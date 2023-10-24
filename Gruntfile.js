@@ -5,7 +5,7 @@ var fs = require('fs');
 // var tabletop = require('tabletop');
 var papaparse = require('papaparse');
 // File URL
-var file = './Infancia.csv';
+var file = './pantilla_modelo.csv';
 var content = fs.readFileSync(file, "utf8");
 // var file = 'https://docs.google.com/spreadsheets/d/1osA88sQDYy6Q-Aw4oNbyYaMbAnQAI6t66Iv_6GLRNvA/edit?usp=sharing';
 // var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1ccdoL4b3sxboLIj-BkOCjfRJMLVcDQcwtlv8fFCLoxQ/edit?usp=sharing';
