@@ -5,6 +5,43 @@
         },
         {
             "category": "Reglamento que regula el procedimiento de elaboración, revisión y actualización de los Planes Estratégicos de Recursos Hídricos en Cuencas, su monitoreo y reporte"
+        },
+    ],
+    "Reducción de gases de efecto invernadero": [
+        {
+            "category": "Reducción de gases de efecto invernadero"
+        },
+        {
+            "category": "Reglamento de Proyectos de Reducción de Emisiones de Contaminantes para compensar emisiones gravadas conforme a los dispuesto en el artículo 8° de la Ley N° 20.780."
+        }
+    ],
+    "Institucionalidad": [
+        {
+            "category": "Reglamento que fija las normas para el funcionamiento interno y conformación del Comité Científico Asesor para el Cambio Climático"
+        },
+        {
+            "category": "Reglamento que Establece la conformación y funcionamiento del Equipo Técnico Interministerial para el Cambio Climático y el Comité Climático para el Cambio Climático"
+        },
+        {
+            "category": "Modificación del Reglamento que regula el funcionamiento del Consejo Consultivo Nacional y los Consejos Consultivos Regionales de Cambio Climático"
+        }
+    ],
+    "Sistema de información": [
+        {
+            "category": "Poderes del Estado y Municipalidades con enfoque de derecho y participación de NNA"
+        },
+        {
+            "category": "Reglamento que establece los sistemas de información sobre Cambio Climático"
+        }
+    ],
+    "Participación": [
+        {
+            "category": "Poderes del Estado y Municipalidades con enfoque de derecho y participación de NNA"
+        }
+    ],
+    "Modificaciones a la gestión ambiental": [
+        {
+            "category": "Poderes del Estado y Municipalidades con enfoque de derecho y participación de NNA"
         }
     ]
 }

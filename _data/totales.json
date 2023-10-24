@@ -4,5 +4,35 @@
         "macro_area": "Planificación",
         "quality_macro_area": "",
         "fulfillment_macro_area": 71
+    },
+    {
+        "id": 2,
+        "macro_area": "Reducción de gases de efecto invernadero",
+        "quality_macro_area": "",
+        "fulfillment_macro_area": 60
+    },
+    {
+        "id": 3,
+        "macro_area": "Institucionalidad",
+        "quality_macro_area": "",
+        "fulfillment_macro_area": 62,5
+    },
+    {
+        "id": 4,
+        "macro_area": "Sistema de información",
+        "quality_macro_area": "",
+        "fulfillment_macro_area": 56,2
+    },
+    {
+        "id": 5,
+        "macro_area": "Participación",
+        "quality_macro_area": "",
+        "fulfillment_macro_area": 50
+    },
+    {
+        "id": 6,
+        "macro_area": "Modificaciones a la gestión ambiental",
+        "quality_macro_area": "",
+        "fulfillment_macro_area": 75
     }
 ]
