@@ -2,7 +2,7 @@
 title: Acción Climática
 email: fperry@ciudadaniai.org
 description: 'Acción Climática - Del Dicho al Hecho - Chile'
-baseurl: '//accionclimaticachile.cl/' # the subpath of your site, e.g. /blog/
+baseurl: '' # the subpath of your site, e.g. /blog/
 url: 'https://accionclimaticachile.cl' # the base hostname & protocol for your site
 # analytics: 'G-ES8KVYN4W6' # google analytics tracking code
 launched: true

@@ -5,7 +5,7 @@
         },
         {
             "category": "Reglamento que regula el procedimiento de elaboración, revisión y actualización de los Planes Estratégicos de Recursos Hídricos en Cuencas, su monitoreo y reporte"
-        },
+        }
     ],
     "Reducción de gases de efecto invernadero": [
         {
@@ -28,20 +28,26 @@
     ],
     "Sistema de información": [
         {
-            "category": "Poderes del Estado y Municipalidades con enfoque de derecho y participación de NNA"
+            "category": "Reglamento que establece los sistemas de información sobre Cambio Climático"
         },
         {
-            "category": "Reglamento que establece los sistemas de información sobre Cambio Climático"
+            "category": "Sistema de información"
         }
     ],
     "Participación": [
         {
-            "category": "Poderes del Estado y Municipalidades con enfoque de derecho y participación de NNA"
+            "category": "Norma de participación ciudadana del MMA que establece modalidades formales y específicas en el marco de la Ley 20.500."
         }
     ],
     "Modificaciones a la gestión ambiental": [
         {
-            "category": "Poderes del Estado y Municipalidades con enfoque de derecho y participación de NNA"
+            "category": "Propuesta de reforma al reglamento del Sistema de Evaluación de Impacto Ambiental, para la implementación de la LMCC, Acuerdo de Escazú, y la Ley que establece el marco para la Gestión de Residuos, la Responsabilidad Extendida del Productor y Fomento al Reciclaje"
+        },
+        {
+            "category": "Guía de Evaluación Ambiental Estratégica para incorporar el Cambio Climático en los Instrumentos de Ordenamiento y Planificación Territorial"
+        },
+        {
+            "category": "Reglamento para la Evaluación Ambiental Estratégica"
         }
     ]
 }

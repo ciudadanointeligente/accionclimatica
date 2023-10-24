@@ -1,0 +1,34 @@
+<header>
+    <nav>
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <a class="site-title" href="{{ site.baseurl }}/">
+                    <div class="brand">
+                        <img src=" {{ site.baseurl }} img/img-ac/accion-climatica-logo.svg" />
+                    </div>
+                </a>
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            {% if site.launched %}
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="{{ site.baseurl }}cumplimiento.html" class="active">Cumplimiento</a></li>
+                    <li><a href="{{ site.baseurl }}metodologia.html">Metodología</a></li>
+                    <!--<li><a href="">Estudios</a></li>-->
+                    <li><a href="{{ site.baseurl }}nosotros.html">Nosotros</a></li>
+                </ul>
+
+            </div><!-- /.navbar-collapse -->
+            {% else %}
+
+            {% endif %}
+        </div><!-- /.container-fluid -->
+    </nav>
+
+</header>
