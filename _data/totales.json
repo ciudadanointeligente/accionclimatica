@@ -9,13 +9,13 @@
         "id": 2,
         "macro_area": "Reducción de gases de efecto invernadero",
         "quality_macro_area": "",
-        "fulfillment_macro_area": 60
+        "fulfillment_macro_area": 50
     },
     {
         "id": 3,
         "macro_area": "Institucionalidad",
         "quality_macro_area": "",
-        "fulfillment_macro_area": 62,5
+        "fulfillment_macro_area": 81
     },
     {
         "id": 4,
@@ -33,6 +33,6 @@
         "id": 6,
         "macro_area": "Modificaciones a la gestión ambiental",
         "quality_macro_area": "",
-        "fulfillment_macro_area": 75
+        "fulfillment_macro_area": 81
     }
 ]

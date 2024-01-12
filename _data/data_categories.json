@@ -21,7 +21,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-12-2023.pdf"
+            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-12-2023.pdf",
+            "link2": ""
         },
         {
             "id": "2",
@@ -44,7 +45,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-12-2023.pdf"
+            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-12-2023.pdf",
+            "link2": ""
         },
         {
             "id": "3",
@@ -67,7 +69,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-12-2023.pdf"
+            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-12-2023.pdf",
+            "link2": ""
         },
         {
             "id": "4",
@@ -90,7 +93,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-12-2023.pdf"
+            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-12-2023.pdf",
+            "link2": ""
         },
         {
             "id": "5",
@@ -113,7 +117,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-12-2023.pdf"
+            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-12-2023.pdf",
+            "link2": ""
         }
     ],
     "Reglamento que regula el procedimiento de elaboración, revisión y actualización de los Planes Estratégicos de Recursos Hídricos en Cuencas, su monitoreo y reporte": [
@@ -138,10 +143,11 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://bcn.cl/35jce"
+            "link": "https://bcn.cl/35jce",
+            "link2": ""
         }
     ],
-    "Reducción de gases de efecto invernadero": [
+    "Reglamento que establece el procedimiento de elaboración, revisión y actualización -además de su contenido- de las Normas de Emisión de Gases de Efecto Invernadero y Forzantes Climáticos de Vida Corta": [
         {
             "id": "7",
             "macro_area": "Reducción de gases de efecto invernadero",
@@ -163,30 +169,34 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://bcn.cl/3g49r"
-        },
+            "link": "https://bcn.cl/3g49r",
+            "link2": ""
+        }
+    ],
+    "Reglamento para la Elaboración de Normas de Emisión para Gases de Efecto Invernadero y Forzantes Climáticos de Vida Corta": [
         {
             "id": "8",
             "macro_area": "Reducción de gases de efecto invernadero",
             "category": "Reducción de gases de efecto invernadero",
             "promess": "Artículo 15",
-            "description": "Reglamento que establece las condiciones y requisitos que deben tener los Certificados de Reducción o Absorción de emisiones conforme objetivos del Acuerdo de París. Este reglamento se relaciona con el artículo 6 del Acuerdo de París, y de acuerdo a lo informado por el Ministerio de Medio Ambiente en distintas mesas de trabajo extendidas a miembros de la sociedad civil, así como a los sectores privado y público, está en etapa de elaboración por parte del Ministerio de Medio Ambiente",
+            "description": "Reglamento que establece las condiciones y requisitos que deben tener los Certificados de Reducción o Absorción de emisiones conforme objetivos del Acuerdo de París",
             "quality": "7.0",
-            "fulfillment": "0%",
+            "fulfillment": "50%",
             "ponderator": "",
-            "readmore_fulfillment": "",
+            "readmore_fulfillment": "Proceso abierto desde el 09.12.2022 al 23.01.2023",
             "readmore_quality": "",
             "quality_cat": "7.000",
             "quality_macro_area": "",
             "quality_total": "",
-            "fulfillment_cat": "0",
+            "fulfillment_cat": "0.50",
             "fulfillment_macro_area": "0.82",
             "fulfillment_total": "",
             "quality_pond": "",
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://bcn.cl/3g4b1"
+            "link": "https://bcn.cl/3g4b1",
+            "link2": ""
         }
     ],
     "Reglamento de Proyectos de Reducción de Emisiones de Contaminantes para compensar emisiones gravadas conforme a los dispuesto en el artículo 8° de la Ley N° 20.780.": [
@@ -210,8 +220,9 @@
             "quality_pond": "",
             "fulfillment_pond": "",
             "destacado": "",
-            "comision": "",
-            "link": "https://bcn.cl/3g4b1"
+            "comision": "Ministerio del Medio Ambiente",
+            "link": "https://bcn.cl/3fscc",
+            "link2": "https://www.diariooficial.interior.gob.cl/publicaciones/2023/09/29/43664/01/2383872.pdf"
         },
         {
             "id": "10",
@@ -233,8 +244,9 @@
             "quality_pond": "",
             "fulfillment_pond": "",
             "destacado": "",
-            "comision": "",
-            "link": "https://bcn.cl/3g4b1"
+            "comision": "Ministerio del Medio Ambiente",
+            "link": "https://bcn.cl/3fscc",
+            "link2": ""
         },
         {
             "id": "11",
@@ -256,8 +268,9 @@
             "quality_pond": "",
             "fulfillment_pond": "",
             "destacado": "",
-            "comision": "",
-            "link": "https://bcn.cl/3g4b1"
+            "comision": "Ministerio del Medio Ambiente",
+            "link": "https://bcn.cl/3fscc",
+            "link2": ""
         }
     ],
     "Reglamento que fija las normas para el funcionamiento interno y conformación del Comité Científico Asesor para el Cambio Climático": [
@@ -268,21 +281,22 @@
             "promess": "Artículo 19",
             "description": "Reglamento que fija el funcionamiento interno y las normas para la conformación del Comité Científico Asesor para el Cambio Climático.",
             "quality": "7.0",
-            "fulfillment": "50%",
+            "fulfillment": "100%",
             "ponderator": "",
             "readmore_fulfillment": "Proceso abierto desde el 15.05.2023 al 02.06.2023. Se constata que este reglamento fue ingresado a trámite de toma de razón en la Contraloría el 14 de junio de 2023, pero sin pasar por la etapa de aprobación del CMSCC, siendo, posteriormente, retirado.",
             "readmore_quality": "",
             "quality_cat": "7.000",
             "quality_macro_area": "5.909090909",
             "quality_total": "",
-            "fulfillment_cat": "0.50",
+            "fulfillment_cat": "1.0",
             "fulfillment_macro_area": "0.82",
             "fulfillment_total": "",
             "quality_pond": "",
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "MINCYT",
-            "link": "https://bcn.cl/34i08"
+            "link": "https://bcn.cl/34i08",
+            "link2": ""
         }
     ],
     "Reglamento que Establece la conformación y funcionamiento del Equipo Técnico Interministerial para el Cambio Climático y el Comité Climático para el Cambio Climático": [
@@ -307,7 +321,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-13-2023.pdf"
+            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-13-2023.pdf",
+            "link2": ""
         },
         {
             "id": "14",
@@ -330,7 +345,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-13-2023.pdf"
+            "link": "https://mma.gob.cl/wp-content/uploads/2023/06/Acuerdo-13-2023.pdf",
+            "link2": ""
         }
     ],
     "Modificación del Reglamento que regula el funcionamiento del Consejo Consultivo Nacional y los Consejos Consultivos Regionales de Cambio Climático": [
@@ -355,7 +371,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Principios Constitucionales, Democracia, Nacionalidad y Ciudadanía",
-            "link": "https://bcn.cl/33fc9"
+            "link": "https://bcn.cl/33fc9",
+            "link2": ""
         }
     ],
     "Reglamento que establece los sistemas de información sobre Cambio Climático": [
@@ -380,7 +397,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://mma.gob.cl/wp-content/uploads/2023/03/Acuerdo-14-2023.pdf"
+            "link": "https://mma.gob.cl/wp-content/uploads/2023/03/Acuerdo-14-2023.pdf",
+            "link2": ""
         },
         {
             "id": "17",
@@ -403,7 +421,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://mma.gob.cl/wp-content/uploads/2023/03/Acuerdo-14-2023.pdf"
+            "link": "https://mma.gob.cl/wp-content/uploads/2023/03/Acuerdo-14-2023.pdf",
+            "link2": ""
         },
         {
             "id": "18",
@@ -426,7 +445,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://mma.gob.cl/wp-content/uploads/2023/03/Acuerdo-14-2023.pdf"
+            "link": "https://mma.gob.cl/wp-content/uploads/2023/03/Acuerdo-14-2023.pdf",
+            "link2": ""
         },
         {
             "id": "19",
@@ -449,7 +469,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://mma.gob.cl/wp-content/uploads/2023/03/Acuerdo-14-2023.pdf"
+            "link": "https://mma.gob.cl/wp-content/uploads/2023/03/Acuerdo-14-2023.pdf",
+            "link2": ""
         }
     ],
     "Sistema de información": [
@@ -474,7 +495,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://bcn.cl/3g4dc"
+            "link": "https://bcn.cl/3g4dc",
+            "link2": ""
         }
     ],
     "Norma de participación ciudadana del MMA que establece modalidades formales y específicas en el marco de la Ley 20.500.": [
@@ -499,7 +521,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://www.bcn.cl/leychile/navegar?idNorma=1177286&idParte=10341083"
+            "link": "https://www.bcn.cl/leychile/navegar?idNorma=1177286&idParte=10341083",
+            "link2": ""
         }
     ],
     "Propuesta de reforma al reglamento del Sistema de Evaluación de Impacto Ambiental, para la implementación de la LMCC, Acuerdo de Escazú, y la Ley que establece el marco para la Gestión de Residuos, la Responsabilidad Extendida del Productor y Fomento al Reciclaje": [
@@ -524,7 +547,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Principios Constitucionales, Democracia, Nacionalidad y Ciudadanía",
-            "link": "https://mma.gob.cl/wp-content/uploads/2023/07/Acuerdo-18-2023.pdf"
+            "link": "https://mma.gob.cl/wp-content/uploads/2023/07/Acuerdo-18-2023.pdf",
+            "link2": ""
         }
     ],
     "Guía de Evaluación Ambiental Estratégica para incorporar el Cambio Climático en los Instrumentos de Ordenamiento y Planificación Territorial": [
@@ -549,7 +573,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://www.bcn.cl/leychile/navegar?idNorma=1177286&idParte=10341097"
+            "link": "https://www.bcn.cl/leychile/navegar?idNorma=1177286&idParte=10341097",
+            "link2": ""
         }
     ],
     "Reglamento para la Evaluación Ambiental Estratégica": [
@@ -574,7 +599,8 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://www.bcn.cl/leychile/navegar?idNorma=1177286&idParte=10341097"
+            "link": "https://www.bcn.cl/leychile/navegar?idNorma=1177286&idParte=10341097",
+            "link2": ""
         }
     ]
 }
