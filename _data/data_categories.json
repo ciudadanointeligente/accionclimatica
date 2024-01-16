@@ -157,7 +157,7 @@
             "quality": "7.0",
             "fulfillment": "0%",
             "ponderator": "",
-            "readmore_fulfillment": "",
+            "readmore_fulfillment": "Proceso abierto desde el 09.12.2022 al 23.01.2023",
             "readmore_quality": "",
             "quality_cat": "7.000",
             "quality_macro_area": "5.909090909",
@@ -203,8 +203,8 @@
         {
             "id": "9",
             "macro_area": "Reducción de gases de efecto invernadero",
-            "category": "Reglamento de Proyectos de Reducción de Emisiones de Contaminantes para compensar emisiones gravadas conforme a los dispuesto en el artículo 8° de la Ley N° 20.780.",
-            "promess": "Artículo 15[16]",
+            "category": "Reglamento de Proyectos de Reducción de Emisiones de Contaminantes para compensar emisiones gravadas conforme a los dispuesto en el artículo 8° de la Ley N° 20.780",
+            "promess": "Artículo 15",
             "description": "Reglamento que establece criterios, requisitos y procedimientos de los Certificados de Reducción o Absorción de Gases de Efecto Invernadero",
             "quality": "7.0",
             "fulfillment": "100%",
@@ -227,7 +227,7 @@
         {
             "id": "10",
             "macro_area": "Reducción de gases de efecto invernadero",
-            "category": "Reglamento de Proyectos de Reducción de Emisiones de Contaminantes para compensar emisiones gravadas conforme a los dispuesto en el artículo 8° de la Ley N° 20.780.",
+            "category": "Reglamento de Proyectos de Reducción de Emisiones de Contaminantes para compensar emisiones gravadas conforme a los dispuesto en el artículo 8° de la Ley N° 20.780",
             "promess": "Artículo 15",
             "description": "Reglamento que establece los procedimientos de verificación, los requisitos mínimos e inhabilidades para la inscripción de un auditor en el Registro para la Verificación de Reducción o Absorción de Gases de Efecto Invernadero en proyectos aprobados",
             "quality": "7.0",
@@ -551,6 +551,32 @@
             "link2": ""
         }
     ],
+    "Reglamento que Regula los Organismos Técnicos para el Monitoreo de Amenazas, Organismos Técnicos para el Monitoreo Sectorial, los Instrumentos para la Gestión del Riesgo de Desastres, y los Procedimientos de Elaboración de los Mapas de Amenaza y los Mapas de Riesgo": [
+        {
+            "id": "25",
+            "macro_area": "Modificaciones a la gestión ambiental",
+            "category": "Reglamento que Regula los Organismos Técnicos para el Monitoreo de Amenazas, Organismos Técnicos para el Monitoreo Sectorial, los Instrumentos para la Gestión del Riesgo de Desastres, y los Procedimientos de Elaboración de los Mapas de Amenaza y los Mapas de Riesgo",
+            "promess": "Artículo 42",
+            "description": "Modificación a los instrumentos de gestión de riesgos de desastres",
+            "quality": "7.0",
+            "fulfillment": "100%",
+            "ponderator": "",
+            "readmore_fulfillment": "",
+            "readmore_quality": "",
+            "quality_cat": "7.000",
+            "quality_macro_area": "5.909090909",
+            "quality_total": "",
+            "fulfillment_cat": "1.0",
+            "fulfillment_macro_area": "0.78",
+            "fulfillment_total": "",
+            "quality_pond": "",
+            "fulfillment_pond": "",
+            "destacado": "",
+            "comision": "Ministerio del Medio Ambiente",
+            "link": "https://bcn.cl/3fz1k",
+            "link2": ""
+        }
+    ],
     "Guía de Evaluación Ambiental Estratégica para incorporar el Cambio Climático en los Instrumentos de Ordenamiento y Planificación Territorial": [
         {
             "id": "23",
@@ -573,7 +599,7 @@
             "fulfillment_pond": "",
             "destacado": "",
             "comision": "Ministerio del Medio Ambiente",
-            "link": "https://www.bcn.cl/leychile/navegar?idNorma=1177286&idParte=10341097",
+            "link": "https://bcn.cl/3euzq",
             "link2": ""
         }
     ],
@@ -583,7 +609,7 @@
             "macro_area": "Modificaciones a la gestión ambiental",
             "category": "Reglamento para la Evaluación Ambiental Estratégica",
             "promess": "Artículo 43",
-            "description": "Elaboración de guía de Evaluación Ambiental Estratégica",
+            "description": "Modificación del Reglamento de la Evaluación Ambiental Estratégica para incorporar el Cambio Climático en los Instrumentos de Ordenamiento y Planificación Territorial",
             "quality": "7.0",
             "fulfillment": "50%",
             "ponderator": "",
@@ -602,5 +628,5 @@
             "link": "https://www.bcn.cl/leychile/navegar?idNorma=1177286&idParte=10341097",
             "link2": ""
         }
-    ]
+    ],
 }
